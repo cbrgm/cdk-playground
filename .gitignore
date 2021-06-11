@@ -18,3 +18,4 @@
 vendor*
 
 cdk-go/simple-apigateway-lambda/bin
+simple-apigateway-lambda-dynamodb/bin
